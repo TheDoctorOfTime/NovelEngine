@@ -1,2 +1,2 @@
 # NovelEngine
-Novel Game Engine
+Here's just me trying to study how to make a Game Engine. I'm following theCherno's series since it's very infrmative but I don't plan on strictly using his videos; I plan to incorporate ideas from several other tutorials and even include my own flare into this when I can. will I regret making this decision to develop a full Game Engine at 17 years old? yes. Do I care? no. Anyways that's all, since I'm just starting this I won't even pretend to claim any of this as my code but one day I'll be changing this portion of the readme because yes I'll have added maybe 5% of my own originality into it. Thanks.
